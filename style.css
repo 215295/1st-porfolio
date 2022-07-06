@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    font-family: 'Gentium Book Plus', serif; 
+    
+}
+.section{
+    background-image: url(images/donation3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 20px;
+}
+.container{
+    padding: 50px;
+}
+h1{ padding: 5px 150px;
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+.information{
+    padding: 4px 150px;
+    font-size: 25px;
+    color:rgb(252, 214, 214);
+}
+
+.button{
+    text-decoration: none;
+    text-align: center;
+    padding: 4px 10px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(221, 96, 87);
+    border-radius: 5px;
+    border: none;
+
+}
+h2{padding: 5px 150px;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+section{
+    padding: 10px 0px;
+}
+p{
+    padding: 4px 150px;
+    font-size: 20px;
+    color:rgb(146, 141, 141);
+}
+.section2{
+    background-color: aliceblue;
+}
